@@ -12,13 +12,13 @@
 
 **Tools:** Jupyter / JupyterLab, GitHub
 
-**Algorithm:** Classification
+**Algorithm Category:** Classification
 
 **Purpose:** Data Cleaning, Apply Algorithm
 
 **Algorithm:** K Nearest Neighbors
 
-**Libraries:** Pandas, NumPy, Scikit-Learn
+**Libraries:** Pandas, NumPy, Matplotlib, Scikit-Learn
 
 **Projects:** Customer Churn
 
